@@ -34,10 +34,4 @@ The project provides REST API functionality for managing notes, including:
 - PUT /notes/:id → Update a note
 - DELETE /notes/:id → Delete a note
 
-## How to Run
 
-1. Clone the repository
-2. Install dependencies
-
-```bash
-npm install
